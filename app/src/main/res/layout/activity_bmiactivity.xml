@@ -43,7 +43,7 @@
 
     <TextView
         android:id="@+id/tvResult"
-        android:text="Your BMI is "
+        android:text="Your BMI = "
         android:textStyle="italic"
         android:textColor="@color/purple_500"
         android:textSize="18dp"
